@@ -1,0 +1,26 @@
+title: 'fl64.github.io'
+description: "fl64.github.io"
+baseurl: "/"
+url: "https://fl64.github.io"
+
+header_pages:
+  - index.md
+  # - qualifications.md
+  # - experience.md
+  # - profiles.md
+  # - about.md
+  # - contact.md
+
+style: dark
+
+footer:
+- P.S. this page was updated 2022-01-23<a href="https://cutt.ly/df64DJV">.</a>
+
+# Build settings
+markdown: kramdown
+remote_theme:  fl64/jekyll-theme-console
+
+google_analytics: UA-3316377-6
+
+plugins:
+  - jekyll-seo-tag
