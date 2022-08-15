@@ -65,65 +65,12 @@ All my life since childhood I have been connected with IT and computers, and I l
 
 ## Experience
 
-[**2021-present**] - Tinkoff Bank. SRE Engineer
+## Experience
 
-- Designing, implementing, supporting and improving the reliability of services
-- Development of scripts and software to automate and simplify work
-- Troubleshoot issues across the entire stack: hardware, software, application and network
-
---------------------------
-
-[**2018-2021**] - Getmobit, LLC. DevOps Engineer
-  - Designing architecture of DEV infrastructure (Dynamic DNS, NTP, Gitlab, Aptly, Devpi, Security scanner, PKI services)
-  - Automating and supporting infrastructure (Terraform, Packer, VMWare, Vagrant, Virtual box)
-  - Setting up and configuring Linux servers;
-  - Automating services and apps deployment (Docker, Docker-compose, Ansible, AWX, consul)
-  - Implementing CI/CD pipelines (Gitlab)
-  - Logging\Monitoring (EFK, Graylog, Prometheus, Grafana)
-  - Security audit
-  - Maintains security and integrity controls
-  - Providing administration and technical support services
-  - Scripting (Bash, Python,Make, Powershell, Go)
-  - Creating and modifying technical documentation
-  - Sometimes I participate in pre-sale activities, PoCs.
-  - Achievements:
-    - Automation of services and development environments deployment using IaC: git->cicd->packer+terraform->ansible->vsphere vm + dns records
-    - Development of typical pipelines for projects
-    - Optimization of package assembly (rpm, deb)
-    - Automation of test environment deployment (routing, dhcp/dns, sip, dev servers)
-
---------------------------
-
-[**2015-2018**] - Softline, JSC. Systemc Architect
-  - Pre-sale and pilot projects;
-  - Customer’s technical requirements analysis;
-  - Infrastructure audit prior to the solution development;
-  - Determining adequate security measures;
-  - Designing security architecture;
-  - Installing and configuring OS Windows / Linux;
-  - Automating routine tasks (cmd, powershell (basic), bash, ansible);
-  - Installing and configuring security systems;
-  - Solutions include: Firewalls, Anti-APT, AVs, PIM, VPN, PKI, Scanners, Vulnerability Management;
-  - Troubleshooting: networking / OS / apps;
-  - Providing operational as well as technical support;
-  - Writing architecture / implementation documentation;
-  - Communicating and negotiating with specialists of the customers and vendors;
-  - Security Incident Investigation.
-
---------------------------
-
-[**2004-2015**] - RNT, LLC. Deputy Division Chief
-  - Customer’s technical requirements analysis;
-  - Writing architecture / implementation documentation;
-  - Examination of documents;
-  - Design of information security system (IDS);
-  - Installing and configuring OS Windows / Linux;
-  - Automating routine tasks (cmd, bash);
-  - Installing and configuring security systems;
-  - Solutions include: Firewalls, AVs, VPN, IDS\IPS, PKI;
-  - Troubleshoot networking / OS / apps;
-  - Communicating and negotiating with specialists of the customers and vendors;
-  - Training of the Customers;
+- [**2021-present**] - Tinkoff Bank. SRE Engineer
+- [**2018-2021**] - Getmobit, LLC. DevOps Engineer
+- [**2015-2018**] - Softline, JSC. Systemc Architect
+- [**2004-2015**] - RNT, LLC. Deputy Division Chief
 
 ## Certifications
 
@@ -131,8 +78,8 @@ All my life since childhood I have been connected with IT and computers, and I l
 - [RHCSA/RHCE](https://rhtapps.redhat.com/verify/?certId=160-163-135&isSearch=False&verify=Verify)
 - [CKA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a65efbe5-505c-5900-adf7-b80d3602b4bc-pavel-tishkov-certified-kubernetes-administrator-cka-certificate.pdf)
 - [CKS](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a65efbe5-505c-5900-adf7-b80d3602b4bc-pavel-tishkov-7cbc80f7-fd50-47d6-8a0c-e8b9c1d5eea8-certificate.pdf)
+- [CKAD](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a65efbe5-505c-5900-adf7-b80d3602b4bc-pavel-tishkov-64a52e72-0483-465d-8823-b1bb0182da86-certificate.pdf)
 - other narrowly focused Vendor certifications (FireEye, Kaspersky, etc...)
-
 ## Moar about me and my skills:
 
 - [CV En](https://www.linkedin.com/in/pavel-tishkov/)
