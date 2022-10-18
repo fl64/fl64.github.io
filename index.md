@@ -8,7 +8,7 @@ permalink: /
 
 ## Intro
 
-Hi! My name is Poul (Pavel). I am an engineer with more than 15 years of experience in IT. Currently I work as a SRE-engineer in ["Tinkoff Bank"](https://tinkoff.ru/).
+Hi! My name is Poul (Pavel). I am an engineer with more than 18 years of experience in IT. Currently I work as a SRE-engineer in ["Flant"](https://flant.com/), supporting and developing [Deckhouse](https://deckhouse.io)
 &nbsp;
 All my life since childhood I have been connected with IT and computers, and I love it! I am used to learning new technologies and applying them in practice, as well as automating everything I can, especially what I'm too lazy to repeat by hand.
 &nbsp;
@@ -17,7 +17,7 @@ All my life since childhood I have been connected with IT and computers, and I l
 
 - ❤️ OS: Linux (Ubuntu/Debian/Centos/Alpine/etc...)
 - ❤️ IaC and CM: Ansible, Terrafrom, Packer, AWX
-- Service mesh: Consul
+- Service mesh: Consul, Istio, Cilium
 - Services: bind, LDAP, mail, web, etc...
 - PKI: cfssl, vault, MS CA, certbot
 - HA: nginx, traefik, HAproxy, pacemaker
@@ -65,12 +65,11 @@ All my life since childhood I have been connected with IT and computers, and I l
 
 ## Experience
 
-## Experience
-
-- [**2021-present**] - Tinkoff Bank. SRE Engineer
-- [**2018-2021**] - Getmobit, LLC. DevOps Engineer
-- [**2015-2018**] - Softline, JSC. Systemc Architect
-- [**2004-2015**] - RNT, LLC. Deputy Division Chief
+- [**2022-present**] - [Flant](https://flant.com). SRE Engineer in [Deckhouse](https://deckhouse.io)
+- [**2021-2022**] - [Tinkoff Bank](https://www.tinkoff.ru/). SRE Engineer
+- [**2018-2021**] - [Getmobit](https://getmobit.ru/), LLC. DevOps Engineer
+- [**2015-2018**] - [Softline](https://softline.com/), JSC. Systemc Architect
+- [**2004-2015**] - [RNT](https://www.rnt.ru/en/), LLC. Deputy Division Chief
 
 ## Certifications
 
@@ -80,6 +79,7 @@ All my life since childhood I have been connected with IT and computers, and I l
 - [CKS](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a65efbe5-505c-5900-adf7-b80d3602b4bc-pavel-tishkov-7cbc80f7-fd50-47d6-8a0c-e8b9c1d5eea8-certificate.pdf)
 - [CKAD](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a65efbe5-505c-5900-adf7-b80d3602b4bc-pavel-tishkov-64a52e72-0483-465d-8823-b1bb0182da86-certificate.pdf)
 - other narrowly focused Vendor certifications (FireEye, Kaspersky, etc...)
+
 ## Moar about me and my skills:
 
 - [CV En](https://www.linkedin.com/in/pavel-tishkov/)
@@ -117,3 +117,7 @@ All my life since childhood I have been connected with IT and computers, and I l
 ## Fin
 
 ¯\\\_(ツ)\_/¯
+
+## And of course the flag counter
+
+<a href="https://flagcounter.me/details/dbk"><img src="https://flagcounter.me/dbk/" alt="Flag Counter"></a>
