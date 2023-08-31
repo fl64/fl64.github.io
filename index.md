@@ -17,19 +17,16 @@ All my life since childhood I have been connected with IT and computers, and I l
 
 - ❤️ OS: Linux (Ubuntu/Debian/Centos/Alpine/etc...)
 - ❤️ IaC and CM: Ansible, Terrafrom, Packer, AWX
-- Service mesh: Consul, Istio, Cilium
-- Services: bind, LDAP, mail, web, etc...
 - PKI: cfssl, vault, MS CA, certbot
-- HA: nginx, traefik, HAproxy, pacemaker
+- HA: nginx, envoy, traefik, HAproxy, pacemaker
 - Clouds: Google Cloud Platform, Yandex Cloud
 - Networking: Cisco, Mikrotik, VyOS, Linux networking (static routing, quagga, bird)
 - Dev: Bash, Python, Go
 - DB (basics): MongoDB, MariaDB, MySQL, PostgreSQL
-- CICD: Gitlab
+- CICD: Gitlab, Github Actions
 - Log & Mon: EFK, Grafana, Prometheus, Graylog, Fluentd, Vmagent, Vector
-- Virt: VMWare, KVM, Vbox, Vagrant
-- ❤️ Containers: Docker, [Kubernetes](https://www.youtube.com/watch?v=LeVULLqWwcg), Helm, Kustomize
-- ❤️ GitOps: ArgoCD
+- Virtualization: VMWare, KVM, Vbox, Vagrant
+- ❤️ [Kubernetes](https://www.youtube.com/watch?v=LeVULLqWwcg) (Helm, Kustomize, Cilium, Istio, ArgoCD, Kubevirt, etc)
 - Security: FW, VPN, AV, IDS/IPS, Anti-APT, PKI, Pentesting(basics), Security Audit
 - Packaging: RPM, DEB
 - Troubleshooting
@@ -52,16 +49,15 @@ All my life since childhood I have been connected with IT and computers, and I l
 
 ## Education
 
-- [**2000-2005**] Moscow State Technical University of Civil Aviation / Engineer/mathematician
-- [**2015**] - CCNA (Cisco Network Academy)
-- [**2017**] - Linux Administrator (OTUS Training Center)
-- [**2018**] - DevOps Practices and Tools (OTUS Training Center)
-- [**2019**] - Kubernetes Infrastructure platform (OTUS Training Center)
-- [**2020**] - Developing Webservices with Golang (https://golangcourse.ru)
-- [**2020**] - Slurm SRE (https://slurm.io/sre)
-- [**2021**] - [Python for ops](https://edu.slurm.io/certificate/fa32c263-03e5-41b1-90c0-d6fc53e6230d)
 - [**2022**] - [Golang for ops](https://edu.slurm.io/certificate/3675f162-b26e-4198-a073-eb9a02313b95)
-- and other...
+- [**2021**] - [Python for ops](https://edu.slurm.io/certificate/fa32c263-03e5-41b1-90c0-d6fc53e6230d)
+- [**2020**] - Slurm SRE (https://slurm.io/sre)
+- [**2020**] - Developing Webservices with Golang (https://golangcourse.ru)
+- [**2019**] - Kubernetes Infrastructure platform (OTUS Training Center)
+- [**2018**] - DevOps Practices and Tools (OTUS Training Center)
+- [**2017**] - Linux Administrator (OTUS Training Center)
+- [**2015**] - CCNA (Cisco Network Academy)
+- [**2000-2005**] Moscow State Technical University of Civil Aviation / Engineer/mathematician
 
 ## Experience
 
@@ -99,11 +95,9 @@ All my life since childhood I have been connected with IT and computers, and I l
 
 ## Social links:
 
-- [medium](https://tishkov-pavel.medium.com/)
 - [github](https://github.com/fl64)
 - [vas3k.club](https://vas3k.club/user/fl64)
 - [leprosorium.ru](https://leprosorium.ru/users/fl64)
-- [spotify](https://open.spotify.com/user/poswkpd7n2aywlfxezx2xwoi2)
 - [instagram](https://www.instagram.com/flsixtyfour/)
 - [my tech bookmarks](https://t.me/rxd_txd)
 
