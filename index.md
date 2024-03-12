@@ -1,5 +1,5 @@
 ---
-title: "- CV [resume] -"
+title: "CV [resume]"
 layout: home
 permalink: /
 ---
