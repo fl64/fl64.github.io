@@ -11,7 +11,7 @@ header_pages:
   # - about.md
   # - contact.md
 
-style: dark
+style: gruvbox
 
 footer:
 - P.S. this page was updated 2022-10-18<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">.</a>
