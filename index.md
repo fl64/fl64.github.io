@@ -1,11 +1,10 @@
 ---
-title: "CV [resume]"
+title: "- CV [resume] -"
 layout: home
 permalink: /
 ---
 
 # Hi, there ヽ(。\_°)ノ !
-
 
 ## Intro
 
