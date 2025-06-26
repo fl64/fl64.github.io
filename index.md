@@ -6,12 +6,9 @@ permalink: /
 
 # Hi, there ヽ(。\_°)ノ !
 
-## Intro
+## Professional Summary
 
-Hi! My name is Poul (Pavel). I am an engineer with more than 18 years of experience in IT. Currently I work as a SRE-engineer in ["Flant"](https://flant.com/), supporting and developing [Deckhouse](https://deckhouse.io)
-&nbsp;
-All my life since childhood I have been connected with IT and computers, and I love it! I am used to learning new technologies and applying them in practice, as well as automating everything I can, especially what I'm too lazy to repeat by hand.
-&nbsp;
+Seasoned Site Reliability Engineer with over 20 years of IT experience, specializing in cloud platforms, automation, and Kubernetes. Proven track record of enhancing system reliability and performance, seeking to leverage expertise in high-availability systems within challenging environments.
 
 ## Tech Skills / Buzzwords...
 
@@ -25,7 +22,7 @@ All my life since childhood I have been connected with IT and computers, and I l
 - DB (basics): MongoDB, MariaDB, MySQL, PostgreSQL
 - CICD: Gitlab, Github Actions
 - Log & Mon: EFK, Grafana, Prometheus, Graylog, Fluentd, Vmagent, Vector
-- Virtualization: VMWare, KVM, Vbox, Vagrant
+- Virtualization: VMWare, KVM, Qemu, Vbox, Vagrant
 - ❤️ [Kubernetes](https://www.youtube.com/watch?v=LeVULLqWwcg) (Helm, Kustomize, Cilium, Istio, ArgoCD, Kubevirt, etc)
 - Security: FW, VPN, AV, IDS/IPS, Anti-APT, PKI, Pentesting(basics), Security Audit
 - Packaging: RPM, DEB
@@ -61,7 +58,7 @@ All my life since childhood I have been connected with IT and computers, and I l
 
 ## Experience
 
-- [**2022-present**] - [Flant](https://flant.com). SRE Engineer in [Deckhouse](https://deckhouse.io)
+- [**2022-present**] - [Flant](https://flant.com). TechLead / SRE in [Deckhouse Virtualization](https://deckhouse.io)
 - [**2021-2022**] - [Tinkoff Bank](https://www.tinkoff.ru/). SRE Engineer
 - [**2018-2021**] - [Getmobit](https://getmobit.ru/), LLC. DevOps Engineer
 - [**2015-2018**] - [Softline](https://softline.com/), JSC. Systemc Architect
